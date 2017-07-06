@@ -1,0 +1,6 @@
+c:\users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Наследяване Домашно\bin\Debug\Наследяване Домашно.exe.config
+c:\users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Наследяване Домашно\bin\Debug\Наследяване Домашно.exe
+c:\users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Наследяване Домашно\bin\Debug\Наследяване Домашно.pdb
+c:\users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Наследяване Домашно\obj\Debug\Наследяване Домашно.csprojResolveAssemblyReference.cache
+c:\users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Наследяване Домашно\obj\Debug\Наследяване Домашно.exe
+c:\users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Наследяване Домашно\obj\Debug\Наследяване Домашно.pdb
