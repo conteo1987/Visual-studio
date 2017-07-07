@@ -1,0 +1,6 @@
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Problem 3. Mankind\bin\Debug\Problem_3.Mankind.exe.config
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Problem 3. Mankind\bin\Debug\Problem_3.Mankind.exe
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Problem 3. Mankind\bin\Debug\Problem_3.Mankind.pdb
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Problem 3. Mankind\obj\Debug\Problem 3. Mankind.csprojResolveAssemblyReference.cache
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Problem 3. Mankind\obj\Debug\Problem_3.Mankind.exe
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Problem 3. Mankind\obj\Debug\Problem_3.Mankind.pdb

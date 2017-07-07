@@ -1,0 +1,5 @@
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\04. Online Radio Database\bin\Debug\_04.Online_Radio_Database.exe.config
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\04. Online Radio Database\bin\Debug\_04.Online_Radio_Database.exe
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\04. Online Radio Database\bin\Debug\_04.Online_Radio_Database.pdb
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\04. Online Radio Database\obj\Debug\_04.Online_Radio_Database.exe
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\04. Online Radio Database\obj\Debug\_04.Online_Radio_Database.pdb

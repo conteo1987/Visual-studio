@@ -1,0 +1,2 @@
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\06. Animals\bin\Debug\_06.Animals.exe.config
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\06. Animals\obj\Debug\06. Animals.csprojResolveAssemblyReference.cache
