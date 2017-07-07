@@ -1,2 +1,6 @@
 c:\users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Book Shop\bin\Debug\Book Shop.exe.config
 c:\users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Book Shop\obj\Debug\Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Book Shop\bin\Debug\Book Shop.exe
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Book Shop\bin\Debug\Book Shop.pdb
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Book Shop\obj\Debug\Book Shop.exe
+C:\Users\ники\documents\visual studio 2015\Projects\Наследяване Домашно\Book Shop\obj\Debug\Book Shop.pdb
