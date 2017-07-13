@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{4D5BCF5E-553B-4036-84BC-CD31D157217A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclesExtension", "VehiclesExtension\VehiclesExtension.csproj", "{1C5EDE72-71BA-4165-8D0C-3B9E4BC7B34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wild_farm", "Wild_farm\Wild_farm.csproj", "{1F47814E-FEA5-4313-866B-F06C51A53971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5BCF5E-553B-4036-84BC-CD31D157217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5BCF5E-553B-4036-84BC-CD31D157217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5BCF5E-553B-4036-84BC-CD31D157217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5BCF5E-553B-4036-84BC-CD31D157217A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5EDE72-71BA-4165-8D0C-3B9E4BC7B34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5EDE72-71BA-4165-8D0C-3B9E4BC7B34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5EDE72-71BA-4165-8D0C-3B9E4BC7B34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5EDE72-71BA-4165-8D0C-3B9E4BC7B34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F47814E-FEA5-4313-866B-F06C51A53971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F47814E-FEA5-4313-866B-F06C51A53971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F47814E-FEA5-4313-866B-F06C51A53971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F47814E-FEA5-4313-866B-F06C51A53971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
